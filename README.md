@@ -23,7 +23,7 @@ Utilizando a API todolist-nodejs é possível agora registrar tuas tarefas!
 </div>
 
 
-<a href="https://www.figma.com/file/uATTOMhKttrwxaLb9e8xNd/Do.it?node-id=0%3A1">Design do projeto</a>
+<a href="https://www.figma.com/file/uATTOMhKttrwxaLb9e8xNd/Do.it?node-id=0%3A1">Design do projeto</a>\
 <a href="https://api-nodejs-todolist.herokuapp.com/">API</a>
 
 #
