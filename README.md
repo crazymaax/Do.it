@@ -4,7 +4,7 @@ Aplicação simples onde é possível registrar tarefas e concluí-las.
 
 Utilizando a API todolist-nodejs é possível agora registrar tuas tarefas!
 
-<a href="https://www.figma.com/file/uATTOMhKttrwxaLb9e8xNd/Do.it?node-id=0%3A1">Acesse agora mesmo!</a>
+<a href="https://do-it-kappa.vercel.app/">Acesse agora mesmo!</a>
 
 <div align="center">
         
